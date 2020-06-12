@@ -1,5 +1,5 @@
 [package]
-name = "rl-core"
+name = "rlcore"
 version = "0.1.0"
 authors = ["lieh <lienhe@xiaomi.com>"]
 edition = "2018"
